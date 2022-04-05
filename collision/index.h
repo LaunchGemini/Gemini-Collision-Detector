@@ -1,1 +1,1 @@
-/// rflab. All Rights Res
+/// rflab. All Rights Reserve
