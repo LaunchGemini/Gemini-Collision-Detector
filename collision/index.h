@@ -1,2 +1,2 @@
 /// rflab. All Rights Reserved.
-///@brief	Collisi
+///@brief	Collision
