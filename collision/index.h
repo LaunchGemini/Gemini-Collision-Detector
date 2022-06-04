@@ -5,4 +5,4 @@
 ///@file	index.h
 
 
-#ifndef _RF_COLL
+#ifndef _RF_COLLI
