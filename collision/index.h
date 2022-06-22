@@ -5,4 +5,5 @@
 ///@file	index.h
 
 
-#ifndef _RF_COLLISION_INDEX_H
+#ifndef _RF_COLLISION_INDEX_H_
+#
