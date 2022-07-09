@@ -6,4 +6,4 @@
 
 
 #ifndef _RF_COLLISION_INDEX_H_
-#define _RF_COLLISION_I
+#define _RF_COLLISION_IN
