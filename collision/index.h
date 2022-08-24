@@ -8,4 +8,4 @@
 #ifndef _RF_COLLISION_INDEX_H_
 #define _RF_COLLISION_INDEX_H_
 
-#include "boundingbox.h
+#include "boundingbox.h"
