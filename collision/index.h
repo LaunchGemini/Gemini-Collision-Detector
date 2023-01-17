@@ -10,4 +10,4 @@
 
 #include "boundingbox.h"
 #include "boundingboxfunction.h"
-#include "col
+#include "colli
