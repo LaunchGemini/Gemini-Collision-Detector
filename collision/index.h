@@ -12,4 +12,4 @@
 #include "boundingboxfunction.h"
 #include "collisiondetectfunction.h"
 #include "octree.h"
-#include "quad
+#include "quadt
