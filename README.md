@@ -8,3 +8,7 @@ Dependency: MathLibrary, include it in your project.
 Supported objects are as follows:
 ```
 - 2D collision detection
+		- Point(Pt)
+		- Circle(Circle)
+		- Line(Line)
+		- Segment(seg)
