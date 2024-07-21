@@ -6,3 +6,5 @@ This library is designed for custom physics engines, supporting 2D/3D collision 
 
 Dependency: MathLibrary, include it in your project.
 Supported objects are as follows:
+```
+- 2D collision detection
