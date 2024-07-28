@@ -21,3 +21,6 @@ Supported objects are as follows:
 		- Segment(seg)
 		- Semi-straight line/Ray(Ray)
 		- Plane(Plane)
+		- Triangle(Tri)
+		- Square(Square)
+		- Frustum(Frustum)
