@@ -12,3 +12,5 @@ Supported objects are as follows:
 		- Circle(Circle)
 		- Line(Line)
 		- Segment(seg)
+		- Semi-straight line/Ray(Ray)
+		- Axis Aligned Bounding Box(Aabb)
