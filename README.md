@@ -14,3 +14,8 @@ Supported objects are as follows:
 		- Segment(seg)
 		- Semi-straight line/Ray(Ray)
 		- Axis Aligned Bounding Box(Aabb)
+- 3D collision detection
+		- Point(Pt)
+		- Sphere(Sphere)
+		- Line(line)
+		- Segment(seg)
