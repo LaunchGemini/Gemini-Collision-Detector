@@ -19,3 +19,5 @@ Supported objects are as follows:
 		- Sphere(Sphere)
 		- Line(line)
 		- Segment(seg)
+		- Semi-straight line/Ray(Ray)
+		- Plane(Plane)
