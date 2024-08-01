@@ -24,3 +24,5 @@ Supported objects are as follows:
 		- Triangle(Tri)
 		- Square(Square)
 		- Frustum(Frustum)
+		- Axis Aligned Bounding Box(Aabb)
+		- Oriented Bounding Box(Obb)
