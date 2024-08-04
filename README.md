@@ -29,3 +29,4 @@ Supported objects are as follows:
 ```
 
 # Details
+[Please see the header.](https://github.com/LaunchGemini/Gemini-Collision-Detector/blob/master/collision/collisiondetectfunction.h)
