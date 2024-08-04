@@ -27,3 +27,5 @@ Supported objects are as follows:
 		- Axis Aligned Bounding Box(Aabb)
 		- Oriented Bounding Box(Obb)
 ```
+
+# Details
